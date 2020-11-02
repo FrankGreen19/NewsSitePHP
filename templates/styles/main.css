@@ -1,0 +1,28 @@
+#headerLogo {
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+    font-size: 2.20em;
+    text-decoration: none;
+}
+
+#mainHeading {
+    font-family: "Playfair Display", sans-serif;
+    font-size: 5em;
+}
+
+#articleHeader {
+    font-family: "Playfair Display", sans-serif, bold;
+}
+
+.ModalLabel1 {
+    font-family: "Playfair Display", sans-serif;
+    font-size: 2em;
+}
+
+.ModalLabel2 {
+    font-family: "Playfair Display", sans-serif;
+}
+
+.form_labels {
+    font-size: 1em;
+}
